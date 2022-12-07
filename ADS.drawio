@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-07T21:25:52.903Z" agent="5.0 (X11)" etag="vZfRGImzJh1mks_EZ3VU" version="20.6.0" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-07T21:49:22.108Z" agent="5.0 (X11)" etag="KuQIftXiRQjb6WtNIgAl" version="20.6.0" type="github">
   <diagram id="RFVUc-ZViwxxyXP1c8c4" name="Page-1">
-    <mxGraphModel dx="1673" dy="889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
+    <mxGraphModel dx="2370" dy="1260" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="sKBv66Rdz8nY301E-cIr-30" value="Momemtum" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+        <mxCell id="sKBv66Rdz8nY301E-cIr-30" value="Momentum" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="90" y="830" width="120" height="20" as="geometry" />
         </mxCell>
         <mxCell id="_OZ0Gueh85DzmhkIX-R6-55" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=arc;jumpSize=15;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.009;entryY=0.811;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="_OZ0Gueh85DzmhkIX-R6-1" target="sKBv66Rdz8nY301E-cIr-20">
