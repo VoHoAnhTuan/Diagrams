@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T21:24:01.739Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="6Ue_4N7mohIG8E6oA7GU" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T21:25:26.697Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="EHqm2DJIr-YrC5Ogt6Bg" version="21.2.1" type="github">
   <diagram name="Page-1" id="KvL3jpzsEYVWvemKFwzc">
     <mxGraphModel dx="1886" dy="2713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -80,13 +80,13 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6d6ZR2iikcrfA8smD7Zp-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;increment j, travel a distance of 2 feet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6d6ZR2iikcrfA8smD7Zp-9" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;increment j,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;&amp;nbsp;i remains, travel a distance of 2 feet&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-240" y="180" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6d6ZR2iikcrfA8smD7Zp-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;sensor check, right edge reached, j remains when changing state&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="140" width="220" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="6d6ZR2iikcrfA8smD7Zp-12" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;increment i, make another right turn to the West&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6d6ZR2iikcrfA8smD7Zp-12" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;sensor check,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;increment i, make another right turn to the West&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry y="350" width="150" height="105" as="geometry" />
         </mxCell>
         <mxCell id="6d6ZR2iikcrfA8smD7Zp-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;curved=1;endSize=14;" edge="1" parent="1" source="Ldkf10a5wtrMLSqoh3qG-9" target="Ldkf10a5wtrMLSqoh3qG-9">
@@ -99,7 +99,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6d6ZR2iikcrfA8smD7Zp-14" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;decrement j, travel a distance of 2 feet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6d6ZR2iikcrfA8smD7Zp-14" value="&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;decrement j,&lt;/font&gt;&lt;/div&gt;&lt;div&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;i remains, travel a distance of 2 feet&lt;/font&gt;&lt;/div&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-240" y="455" width="120" height="110" as="geometry" />
         </mxCell>
         <mxCell id="6d6ZR2iikcrfA8smD7Zp-17" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;sensor check, left edge reached, j remains when changing state&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
