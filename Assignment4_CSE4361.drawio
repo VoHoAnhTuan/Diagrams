@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-24T20:44:19.534Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="fbkTtZ551Lh0MRcD4eLp" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-24T20:57:13.356Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="BYdUZbw1b-LyFq2Iyto0" version="21.2.1" type="github">
   <diagram name="Page-1" id="KvL3jpzsEYVWvemKFwzc">
     <mxGraphModel dx="1886" dy="2713" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -66,8 +66,11 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="6d6ZR2iikcrfA8smD7Zp-9" value="&lt;font style=&quot;font-size: 18px;&quot;&gt;increment j, travel a distance of 2 feet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="6d6ZR2iikcrfA8smD7Zp-9" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;increment j, travel a distance of 2 feet&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="-240" y="180" width="120" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="6d6ZR2iikcrfA8smD7Zp-10" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;sensor check, right edge reached&lt;br&gt;&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="230" y="180" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
