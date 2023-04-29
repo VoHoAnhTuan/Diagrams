@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-29T21:20:42.448Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="wAeaVu2ig47ezg5JHTkW" version="21.2.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-29T21:27:37.594Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="0qi-mszCYtfzAvaO9XuL" version="21.2.3" type="github">
   <diagram name="Page-1" id="2HoaWyoffMcEFKi5XVGU">
-    <mxGraphModel dx="4873" dy="1217" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="3671" dy="588" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -72,8 +72,32 @@
         <mxCell id="mnsmeuFdQUByq-XuXx8Z-6" value="Bluetooth interface" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1490" y="1140" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="mnsmeuFdQUByq-XuXx8Z-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mnsmeuFdQUByq-XuXx8Z-7" target="mnsmeuFdQUByq-XuXx8Z-17">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mnsmeuFdQUByq-XuXx8Z-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mnsmeuFdQUByq-XuXx8Z-7" target="mnsmeuFdQUByq-XuXx8Z-19">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mnsmeuFdQUByq-XuXx8Z-7" value="Cloud databse" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
           <mxGeometry x="-1270" y="660" width="60" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="mnsmeuFdQUByq-XuXx8Z-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="mnsmeuFdQUByq-XuXx8Z-17" target="mnsmeuFdQUByq-XuXx8Z-21">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mnsmeuFdQUByq-XuXx8Z-17" value="Phone or tablet or the GUI menu" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1770" y="670" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mnsmeuFdQUByq-XuXx8Z-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mnsmeuFdQUByq-XuXx8Z-19" target="mnsmeuFdQUByq-XuXx8Z-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="mnsmeuFdQUByq-XuXx8Z-19" value="a Web browser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1550" y="570" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mnsmeuFdQUByq-XuXx8Z-21" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="-1990" y="670" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="mnsmeuFdQUByq-XuXx8Z-25" value="Fleet Management System (FMS)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1770" y="570" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
