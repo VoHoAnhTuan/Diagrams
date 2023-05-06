@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-06T19:03:34.098Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="w98VdfAi6jjXTX5y4jBy" version="21.2.6" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-06T19:09:43.257Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/112.0" etag="pKVqUPo0HVchtYe4Pq1A" version="21.2.6" type="github">
   <diagram name="Page-1" id="2HoaWyoffMcEFKi5XVGU">
     <mxGraphModel dx="5058" dy="902" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -136,7 +136,7 @@
           <mxGeometry x="-2700" y="1055" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MEH0_ADtMj9MbitDLR-3-13" value="PMM" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="-2770" y="1025" width="60" height="30" as="geometry" />
+          <mxGeometry x="-2760" y="1025" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="MEH0_ADtMj9MbitDLR-3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="MEH0_ADtMj9MbitDLR-3-14" target="MEH0_ADtMj9MbitDLR-3-1">
           <mxGeometry relative="1" as="geometry" />
@@ -152,6 +152,36 @@
         </mxCell>
         <mxCell id="MEH0_ADtMj9MbitDLR-3-20" value="Filtering" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
           <mxGeometry x="-2330" y="1045" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="MEH0_ADtMj9MbitDLR-3-23" value="Publish filtered data" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2280" y="960" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEH0_ADtMj9MbitDLR-3-24" value="Send raw data periodically" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2490" y="1055" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEH0_ADtMj9MbitDLR-3-25" value="GUI Menu" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-3000" y="685" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEH0_ADtMj9MbitDLR-3-26" value="Web browser" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2795" y="685" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEH0_ADtMj9MbitDLR-3-27" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2455" y="1088" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEH0_ADtMj9MbitDLR-3-28" value="2" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2270" y="995" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEH0_ADtMj9MbitDLR-3-29" value="3" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2525" y="838" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEH0_ADtMj9MbitDLR-3-30" value="4" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2680" y="685" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEH0_ADtMj9MbitDLR-3-31" value="5" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2840" y="838" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="MEH0_ADtMj9MbitDLR-3-32" value="6" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="-2900" y="685" width="30" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
